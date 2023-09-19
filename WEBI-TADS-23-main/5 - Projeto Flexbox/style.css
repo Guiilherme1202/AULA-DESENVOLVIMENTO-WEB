@@ -63,6 +63,7 @@
     color: white;
 }
 .sec-2{
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -94,4 +95,20 @@
 .card p {
     text-align: justify;
 
+}
+.sec-3{
+    
+    display: block;
+    background-color: var(--cor-terciaria);
+    padding: 30px 50px;
+    width: 100;
+    
+}
+/*.sec-4{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+    padding: 30px 50px;
 }
