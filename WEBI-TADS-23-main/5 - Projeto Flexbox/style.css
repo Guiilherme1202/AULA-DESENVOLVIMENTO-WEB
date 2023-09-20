@@ -98,11 +98,17 @@
 }
 .sec-3{
     
-    display: block;
+    
     background-color: var(--cor-terciaria);
     padding: 30px 50px;
     width: 100;
     
+}
+.row-1{
+    display: block;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 /*.sec-4{
     display: block;
