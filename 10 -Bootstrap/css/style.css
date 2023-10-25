@@ -1,0 +1,39 @@
+*{
+    font-size: 18px;
+}
+
+header{
+    height: 10vh;
+}
+
+.nav-link{
+    color: red;
+}
+
+.caroulsel-inner{
+    height: 90vh;
+}
+
+.icon{
+    font-size: 2rem;
+    color: red;
+}
+
+.icon:hover{
+    color: rgb(81, 8, 14);
+}
+
+@media screen and (max-width:768px) {
+
+    *{
+        font-size: 14px;
+    }
+
+    header{
+        height: 100%;
+    }
+    .caroulsel-inner{
+        height: 100%;
+    }
+    
+}
